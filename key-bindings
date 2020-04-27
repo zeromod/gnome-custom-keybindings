@@ -1,3 +1,0 @@
-#VPN
-python3 create-keybinding.py 'vpn connect' '<Shift>F9' 'pkexec bash /home/sarathy/programs/vpnclient/connect.sh'
-python3 create-keybinding.py 'vpn disconnect' '<Alt>F9' 'pkexec bash /home/sarathy/programs/vpnclient/disconnect.sh'
